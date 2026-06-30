@@ -1,4 +1,4 @@
-{
+[{
     "id": "",
     "username": "pogi",
     "password": "pogi",
@@ -11,4 +11,4 @@
     "password": "pass2",
     "expiresAt": "07/10/2026",
     "allowOffline": "false"
-  }
+  }]
