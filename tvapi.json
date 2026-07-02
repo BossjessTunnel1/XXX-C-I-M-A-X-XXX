@@ -18,4 +18,54 @@
 "title":"Dreamstar TV",
  "id":"https://dreamstartvph.itunerworldwide.workers.dev/master.live.m3u8",
 "flags":"ph"
+},
+{
+"title":"Highlights TV",
+ "id":"https://highlightstvph.itunerworldwide.workers.dev/master.live.m3u8",
+"flags":"ph"
+},
+{
+"title":"IBC 13",
+ "id":"https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8",
+"flags":"ph"
+},
+{
+"title":"INTRAVEL Philippines",
+ "id":"https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
+"flags":"ph"
+},
+{
+"title":"Living Asia Channel",
+ "id":"https://streams.comclark.com/pknsd/lac/playlist.m3u8",
+"flags":"ph"
+},
+{
+"title":"Mindanow Network TV",
+ "id":"https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8",
+"flags":"ph"
+},
+{
+"title":"PTN",
+ "id":"https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8",
+"flags":"ph"
+},
+{
+"title":"PTV",
+ "id":"https://streams.comclark.com/pknsd/ptv/playlist.m3u8",
+"flags":"ph"
+},
+{
+"title":"SDTV Network 01",
+ "id":"https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8",
+"flags":"ph"
+},
+{
+"title":"SDTV Network 02",
+ "id":"https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8",
+"flags":"ph"
+},
+{
+"title":"Sine Plus",
+ "id":"https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8",
+"flags":"ph"
 }]
