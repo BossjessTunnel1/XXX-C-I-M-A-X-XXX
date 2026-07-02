@@ -2,20 +2,20 @@
 [{
 "title":"Aaj Tak News",
 "id":"https://feeds.intoday.in/aajtak/api/master.m3u8",
-"poster_path":"https://www.sabinchaudhary.com.np/LiveTv/Ajtak.png"
+"flags":"ph"
 },
 {
 "title":"India Tv",
  "id":"https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8",
-"poster_path":"https://www.sabinchaudhary.com.np/LiveTv/indiatv.png"
+"flags":"us"
 },
 {
 "title":"1st India",
  "id":"https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
-"poster_path":"https://www.sabinchaudhary.com.np/LiveTv/1india.jpg"
+"flags":"ph"
 },
 {
 "title":"News 24 India",
  "id":"https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
-"poster_path":"https://www.sabinchaudhary.com.np/LiveTv/news24.jpg"
+"flags":"us"
 }]
