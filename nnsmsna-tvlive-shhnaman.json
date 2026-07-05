@@ -3,12 +3,14 @@
     "username": "pogi",
     "password": "pogi",
     "expiresAt": "07/10/2026",
-    "allowOffline": "true"
+    "allowOffline": "true",
+    "vipm":"false"
   },
   {
     "id": "",
     "username": "user2",
     "password": "pass2",
     "expiresAt": "07/10/2026",
-    "allowOffline": "false"
+    "allowOffline": "true",
+    "vipm":"true"
   }]
